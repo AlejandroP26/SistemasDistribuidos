@@ -11,7 +11,7 @@
                             <img src="https://e7.pngegg.com/pngimages/78/788/png-clipart-computer-icons-avatar-business-computer-software-user-avatar-child-face.png"
                                 alt="" class="h-full w-full">
                         </div>
-                        <label for="" value="">Daren B.</label>
+                        <label for="" value="">Jamid D.</label>
                     </div>
 
                     <div style="text-align: center;">
